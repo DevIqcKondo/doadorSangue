@@ -21,8 +21,6 @@ namespace doadorSangue
                 Console.WriteLine("Desculpe, você não pode ser doador de sangue!");
                 Console.ResetColor();
 
-           
-
             }else{
                 Console.BackgroundColor=ConsoleColor.Green;
                 Console.ForegroundColor=ConsoleColor.Black;
